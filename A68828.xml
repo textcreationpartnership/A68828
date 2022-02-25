@@ -1,0 +1,627 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holie exercise of a true fast, described out of Gods word Seene and allowed.</title>
+            <title>Very godly and learned treatise, of the exercise of fastyng.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68828</idno>
+            <idno type="STC">STC 24251.5</idno>
+            <idno type="STC">ESTC S120024</idno>
+            <idno type="EEBO-CITATION">99855228</idno>
+            <idno type="PROQUEST">99855228</idno>
+            <idno type="VID">20709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1263:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holie exercise of a true fast, described out of Gods word Seene and allowed.</title>
+                  <title>Very godly and learned treatise, of the exercise of fastyng.</title>
+                  <author>Wilkinson, William, d. 1613.</author>
+                  <author>Cartwright, Thomas, 1535-1603, attributed name.</author>
+               </titleStmt>
+               <extent>94, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Henry Middleton?] for Iohn Harison, and Thomas Man,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>An. 1580.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Thomas Cartwright; the woodcut monogram on F3v can be read as including the letters of his name.</note>
+                  <note>Edited by William Wilkinson.</note>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Originally published the same year as "A very godly and learned treatise, of the exercise of fastyng". This edition omits the editor's dedication and adds a prayer for the Queen.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Most copies are bound with STC 22044.</note>
+                  <note>Identified as STC 25667 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Some pages tightly bound; some print faded. Pages 34-55 from the Henry E. Huntington Library and Art Gallery copy filmed at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20709:1"/>
+            <pb facs="tcp:20709:1"/>
+            <p>
+               <hi>THE HOLIE exerciſe of a true Faſt, deſcribed out of Gods word.</hi>
+            </p>
+            <q>
+               <bibl>¶ <hi>IOEL.</hi> 2. 12. 13.</bibl> Turne you vnto me (ſaith the Lord) vvith all your heart, and vvith fasting, and vvith vveeping, and vvith mourning. And rent your heart, and not your clothes: and turne vnto the Lord your God, for he is gratious, and merciful, ſlovve to anger, and of great kindneſse, and repenteth him of the euill.</q>
+            <p>Seene and allowed.</p>
+            <p>
+               <hi>AT LONDON, Printed for Iohn Hariſon,</hi> and Thomas Man.</p>
+            <p>AN. 1580.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:20709:2"/>
+            <pb n="3" facs="tcp:20709:2"/>
+            <head>THE HOLIE EXERCISE OF A true Faſt, deſcribed out of Gods word.</head>
+            <p>IT IS AN EVI<g ref="char:EOLhyphen"/>dent declaration, of a maruellous blindneſſe which is in vs, to or<g ref="char:EOLhyphen"/>der our ſteps towardes the kingdome of heauen: that like children newe come into the worlde, we know not when to eate, and when to forbeare eating, no further then we haue our direction out of Gods word. But it is yet more maruell, that in ſo ſmall a matter, ſcarſe the hun<g ref="char:EOLhyphen"/>dred perſon, of thoſe which profeſſe the name of Christ, knowe either how
+<pb n="4" facs="tcp:20709:3"/> to enter into this way, or howe to turne them in it when they are en<g ref="char:EOLhyphen"/>tred, to any glory of God, or profite of them ſelues. For to let the Papistes goe, which through a ſhameful ſuper<g ref="char:EOLhyphen"/>ſtition in it, rather pine away their ſoules, then take downe their bodies: it is a ſhame to ſpeake, how few there are, of thoſe which beare the name of Gospellers, that haue ſo much as the knowledge of this exerciſe, ſo far are they from any lawfull and right prac<g ref="char:EOLhyphen"/>tiſe of it. For a great number as a needleſſe thing, reiect it altogether. For ſhaking off the Popiſh yoke, from their owne neckes, by vſing, or rather, abuſing their libertie: they ſuffer their ſeruants to remaine ſtill vnder it. Which custome, vnleſſe it be tho<g ref="char:EOLhyphen"/>rough
+<pb n="5" facs="tcp:20709:3"/> infirmitie of body, or ſome o<g ref="char:EOLhyphen"/>ther weightie cauſe: it can hardly eſcape the hot and vehement ſuspi<g ref="char:EOLhyphen"/>cion, either of belly gods, if thinking it religious in their ſeruants, they them ſelues will not obſerue it: or of a co<g ref="char:EOLhyphen"/>uetous minde, if hauing no ſuch opi<g ref="char:EOLhyphen"/>nion of it, they doe notwithſtanding conſtraine their ſeruants therevnto. An other ſort there be, which being afraide of the reproch of belly gods, and thinking it, ſitting to the Chriſti<g ref="char:EOLhyphen"/>an profeſſion, to keepe the fleſh in ſome bridle: allowe (in deede) of the exer<g ref="char:EOLhyphen"/>ciſe of faſting, but for want of know<g ref="char:EOLhyphen"/>ledge of a better, they ſticke ſtill in the mire of the Popiſh faſt. For remedie whereof, there followeth a treatiſe, whereby the true faſt being vnder<g ref="char:EOLhyphen"/>ſtanded:
+<pb n="6" facs="tcp:20709:4"/> as wel the prophane opinio<g ref="char:cmbAbbrStroke">̄</g>, of thoſe which reiect this exerciſe, as the fooliſh ſuperſtition of thoſe, which co<g ref="char:cmbAbbrStroke">̄</g>tent the<g ref="char:cmbAbbrStroke">̄</g> ſelues with a ſhadow ther<g ref="char:EOLhyphen"/>of, is laid open.</p>
+            <p>
+               <q>Fasting therefore, is an absti<g ref="char:EOLhyphen"/>nence commaunded of the Lorde: thereby to make ſolemne profeſſion of our repentance. Wherein, that which is ſaide of the Lord commaunding it: is to be conſidered againſt thoſe, whi<g ref="char:EOLhyphen"/>che would thruſt this exerciſe, out of the doores of Chriſtian Churches.</q> For the repreſſing of which errour, let that be called to remembrance, whi<g ref="char:EOLhyphen"/>che the Lord commaunded by Mo<g ref="char:EOLhyphen"/>ſes: <note n="*" place="margin">
+                  <hi>Leuit.</hi> 16. 29, 30, 31, <hi>&amp;</hi> 23. 27. <hi>to</hi> 33 <hi>Num.</hi> 29. 7.</note> that euery ſoule once a yeare ſhould humble it ſelfe, in faſting be<g ref="char:EOLhyphen"/>fore the Lord, in one of the great aſ<g ref="char:EOLhyphen"/>ſemblies
+<pb n="7" facs="tcp:20709:4"/> of his people. For although the ceremonie of the day be taken a<g ref="char:EOLhyphen"/>way by the comming of our Sauiour Chriſte: yet the thing it ſelfe is no more taken away, then a reſt for Gods ſeruice is baniſhed, bicauſe the Iewes Saboth is aboliſhed. For, when as (no doubt) the conſideration of the fast was, that the wrath of God, ſhould not breake out against them, or being broke<g ref="char:cmbAbbrStroke">̄</g> out, ſhould be cauſed to returne home againe: the ſame cauſe remai<g ref="char:EOLhyphen"/>ning, there is good reaſon the ſame effect ſhould continue. And when it is an hu<g ref="char:cmbAbbrStroke">̄</g>bling of a man before his God: was there any degree of casting downe, neceſſarie for that people, whi<g ref="char:EOLhyphen"/>che is not neceſſarie for vs? either ought thei to haue gone downe lower
+<pb n="8" facs="tcp:20709:5"/> into the conceit of their vnworthi<g ref="char:EOLhyphen"/>neſſe, then we into the conſcience of our guiltineſſe? whoſe benefites as they are greater then theirs, ſo the a<g ref="char:EOLhyphen"/>buſe of them ſhould driue vs, to the loweſt humiliation that can be, ſo it be lawfull and warrantable by the word of God.</p>
+            <p>But if this holy exerciſe of Fa<g ref="char:EOLhyphen"/>sting, doe not clearely enough ap<g ref="char:EOLhyphen"/>peare, to be no fading or ſhadowing ceremonie, by this ſet and ordina<g ref="char:EOLhyphen"/>rie Faſt, bicauſe the like doth not agree with the time of the Gospell: yet by other moueable and vncertain faſtes, which were holden vpon occa<g ref="char:EOLhyphen"/>ſion, the ſame may be more ſtrongly ſtrengthened. For where we ſee the like occaſion of faſt, that was then:
+<pb n="9" facs="tcp:20709:5"/> there we may be aſſured of the ſame commaundement to faſt, that was gi<g ref="char:EOLhyphen"/>uen them: commaundement I ſay, leaſt any man thinking it to be a will worſhip, taken vp at the pleaſure of men, might thinke he had as good (or better) right to lay it downe, the<g ref="char:cmbAbbrStroke">̄</g> they had, to take it vp. For proofe whereof, that one place of the Prophet Ioel <note place="margin">
+                  <hi>Ioel.</hi> 2. 12.</note> ſhall ſuffice, which, vpon occaſion of a great dearth in the lande, commaun<g ref="char:EOLhyphen"/>deth in the Lords behalfe, to ſanctifie a fast. By which one co<g ref="char:cmbAbbrStroke">̄</g>mandement, it is euident, that other faſtes, which were kept, either by the Churches pu<g ref="char:EOLhyphen"/>bliquely, or by ſome of the faithfull priuatly: were done in obedience, and not at the randon of mans inuention. If this be not ſufficient, to ſubdue our
+<pb n="10" facs="tcp:20709:6"/> ſturdie affections, to this ſo holy an exerciſe: yet at the leaſt, let them ſtoupe vnder ſo manifest, both doc<g ref="char:EOLhyphen"/>trine and examples hereof, by the Churches of GOD vnderneath the Gospell. For when as our Sauiour Chriſt, being charged by the Phari<g ref="char:EOLhyphen"/>ſees <note place="margin">
+                  <hi>Luk.</hi> 5. 33.</note> and Iohns Diſciples, that his Diſciples fasted not, ſo aunſwered, that he did not only not condemne it, but highly alſo commend it, ſo it were done ſeaſonably: It is plaine, that the libertie which the Gospell bringeth, hath not remoued the ancient bound of a Christian faſt. And if we looke into the practiſe, whereby the way chalked out by his doctrine, is troden and beaten plaine vnto vs by exam<g ref="char:EOLhyphen"/>ples: it will ſoone be ſeene, how great<g ref="char:EOLhyphen"/>ly
+<pb n="11" facs="tcp:20709:6"/> they deceiue them ſelues, which vnder the colour of greater perfectio<g ref="char:cmbAbbrStroke">̄</g> attained vnder the Gospel, caſt away the aſſistance, that the Lord offreth by this exerciſe. For if we enquire of the Churches and Apostles faſting, then was it most often, when they were fulleſt of the graces of God: that is, after the ſolemne ſending of the holy Ghoſt.</p>
+            <p>If we thinke then, that this exer<g ref="char:EOLhyphen"/>ciſe of faſt, be too ceremonius, bicauſe it was tied to a certaine day: the commaundement to holde it without any ſuch restraint, vnto a certaine time, ought to correct that thought of ours. If we ſtande in feare, that it ſhould be too Iewiſh: the doctrine of the Gospell is ready, to pull vs out of
+<pb n="12" facs="tcp:20709:7"/> that feare. If preſumption of greater graces, then thoſe which ſhould need ſuch a ſupplie, doe bring this faſt out of conceit with vs: the practiſe of it by the holy Apoſtles, at the higheſt toppe of their perfection in this world, will eaſily ſet vp the credite thereof againe. But if faſtes, neither ſtanding nor ſitting, neither vnder the lawe, nor vnder the Gospell, neither of the weaker, nor of the ſtronger, can draw vs into loue, and (in loue) into prac<g ref="char:EOLhyphen"/>tiſe thereof: it must needes be con<g ref="char:EOLhyphen"/>feſſed, that there is a maruellous poi<g ref="char:EOLhyphen"/>ſon of rebellion in our natures, which all this triacle of the Lords high au<g ref="char:EOLhyphen"/>thoritie, and of ſuch authorized ex<g ref="char:EOLhyphen"/>amples of the children of God, will not cast foorth. Howbeit, the Lorde
+<pb n="13" facs="tcp:20709:7"/> leaueth vs not here, but vnto his Lordly authoritie, of commaunding this exerciſe of faſt, hath added fa<g ref="char:EOLhyphen"/>therly promiſes, to allure vs vnto the ſame: as towardes the end of this treatiſe, ſhall plainely appeare.</p>
+            <p>This exerciſe therfore of faſting, being both of ſuch authoritie, and of ſo great weight to pul wrath vpon vs, if it be neglected: let vs nowe ſee in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat things (especially) it doth con<g ref="char:EOLhyphen"/>ſiſt. And they are in number two. The former is of the outward, and (as the Apoſtle calleth it,) of the bodily ex<g ref="char:EOLhyphen"/>erciſe: <note place="margin">1. <hi>Tim.</hi> 4. 8.</note> the other is of the inward vertues, helped forward by the bodi<g ref="char:EOLhyphen"/>ly exerciſes. For the outward cere<g ref="char:EOLhyphen"/>monie, it is an abſtinence for a time, from the commodities and pleaſures
+<pb n="14" facs="tcp:20709:8"/> of this life, therby to make vs the ap<g ref="char:EOLhyphen"/>ter to the inward vertue. <q>And th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> outward abſtinence is therfore com<g ref="char:EOLhyphen"/>maunded, that we ſhould both feele and in feeling, profeſſe that we are vnworthie either of life, or of any thing that belo<g ref="char:cmbAbbrStroke">̄</g>geth to the vpholding thereof.</q> And albeit, it may appeare but a childiſh thing to carnall men, and a thing vnworthie the wiſedome of the Gospell, to place any thing i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this bodily exerciſe, ſeeing that the Lorde is a ſpirit, and will be worſhip<g ref="char:EOLhyphen"/>ped in ſpirit and trueth, and ſeeing that they being of their owne nature, neither good nor euill, can not make vs either better or worſe: yet if we conſider that it is the Lordes ordi<g ref="char:EOLhyphen"/>nance, who hath ſo commanded it, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:20709:8"/> can not be but most aſſured, that the Lorde who hath ſo inſtituted it, will giue it a bleſſing, and cauſe it to proſ<g ref="char:EOLhyphen"/>per, to that end wherevnto he hath ordained it: if we vndertake it in his feare, and in a conſcience of obeying the Lordes commaundement. Thoſe <note place="margin">1. <hi>Cor.</hi> 9. 25</note> which came either to runne, or to wraſtle for the beſt game: were wont to abſtaine from ſuch things, as might hinder their exerciſe, or make them leſſe able to performe the<g ref="char:cmbAbbrStroke">̄</g> with praiſe. And whatſoeuer, either pith in their armes, or ſwiftneſſe in their legges, they had otherwiſe: yet as they neg<g ref="char:EOLhyphen"/>lected not that abſtinence, ſo they found that it greatly profited them, to the better breathing and other in<g ref="char:EOLhyphen"/>habling of them, to their exerciſes.
+<pb n="16" facs="tcp:20709:9"/> And ſhall we thinke, that the dyet which the Lorde him ſelfe hath ap<g ref="char:EOLhyphen"/>pointed, to the fitting of vs towardes the ſpiritual wrastling with our fleſh<g ref="char:EOLhyphen"/>ly mind, ſhal not haue a ſingular fruit? And if there were no other fruit of this abstinence, but that the enimies mouth ſhould thus be ſtopped, which charge the Gospell, to ſet open a ſchoole to allicentiouſneſſe of eating, &amp; to giue (as it were) a ſauce to pro<g ref="char:EOLhyphen"/>uoke mens appetites thervnto, which are otherwiſe too ſharpe ſet of them ſelues: it ſhould be no ſmall effect of our abstinence. In deed the Papistes charge vpon vs, is here the ſame and no other, then the Phariſees, againſt <note place="margin">
+                  <hi>Luke.</hi> 5. 33.</note> the Diſciples of our Sauiour Christ: but why ſhould not we, if we deſire
+<pb n="17" facs="tcp:20709:9"/> that the Goſpel ſhould be wel ſpoke<g ref="char:cmbAbbrStroke">̄</g> of, take away the occaſio<g ref="char:cmbAbbrStroke">̄</g> of ſuch ſpeches.</p>
+            <p>But let vs ſee wherein this abſti<g ref="char:EOLhyphen"/>nence doth conſiſt, where firſt of all commeth to be conſidered, the absti<g ref="char:EOLhyphen"/>nence from meates and drinkes, whereof (as the principall of the out<g ref="char:EOLhyphen"/>ward <note place="margin">2. <hi>Sam.</hi> 12. 16. 17. <hi>Ezr.</hi> 10. 6. <hi>Leui.</hi> 23. 32. <hi>Iudg.</hi> 20. 26</note> obſeruations) the whole exer<g ref="char:EOLhyphen"/>ciſe tooke the name. And the word it ſelfe with the practiſe declare, that it is not only a ſober vſe of meats, <q>which ought to be continual al the life long, or a more ſparing diet then at other times: but an vtter abstinence from euening to euening, from all kinde of meates and drinkes.</q> Whereby it ap<g ref="char:EOLhyphen"/>peareth, that the Popiſh fast is no<g ref="char:EOLhyphen"/>thing leſſe, then the faſt which the Scripture teacheth: for they breake
+<pb n="18" facs="tcp:20709:10"/> the necke of this abſtinence, both by fulneſſe and by delicacie. By fulnes, in that it is lawfull (as other dayes) at dinner to fill them ſelues with any thing, fleſh only excepted: at euening and morning to fill them ſelues with bread and drinke. By delicacie for that, where men on that day, ſhould content them ſelues with common &amp; courſe meates, ſufficient only for pre<g ref="char:EOLhyphen"/>ſeruation of health: the Papistes in their abſtinence, did either not ſo much as aime at this marke, or elſe they ſhot groſſely wide. For in permit<g ref="char:EOLhyphen"/>ting the vſe of all things at their din<g ref="char:EOLhyphen"/>ner, beſides fleſh: it is euident, that they left greater dainties, and grea<g ref="char:EOLhyphen"/>ter ſtirrers of fleſhly luſtes, then they did cut off. And beſides, the dainties
+<pb n="19" facs="tcp:20709:10"/> in meates: wine, (then which there is nothing more prouoking) was as v<g ref="char:EOLhyphen"/>ſuall that day as of others. And at euening, when they would giue the clearest testimonie of their abſti<g ref="char:EOLhyphen"/>nence, and when they did light their candels (as it were) to ſhewe their abstinence by: the greateſt part of thoſe that were both able and might finde in their hearts, to bestowe it of them ſelues, had their tables furni<g ref="char:EOLhyphen"/>ſhed with ſpice bread, with fruites of this ſide and beyond the ſeas, with Marmelet and Sucket, and ſuch like: then which dealing, what could be more childiſh? to deny the tasting, only of one morſell of fleſh, and to per<g ref="char:EOLhyphen"/>mit a fulneſſe of bread: to forbid the courſer meats &amp; table, which might
+<pb n="20" facs="tcp:20709:11"/> haue bene furniſhed for two pence, &amp; to drawe in the delicatest meates, which could not be prouided for twe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tie ſhillings: to reſtraine the vſe of things bred at home, and to leaue the vſe free of things fetched out of Bar<g ref="char:EOLhyphen"/>barie: finally to condemne the eating of a peece of ſmoakie and reaſtie ba<g ref="char:EOLhyphen"/>kon, and to iuſtifie the banqueting and iunqueting diſhes, which are be<g ref="char:EOLhyphen"/>fore mentioned. That I ſpeak nothing of ſome of the poorer ſort, which vp<g ref="char:EOLhyphen"/>on the Thurſday at night, and Friday at dinner, would fill their bellies the fuller, that they might paſſe ouer their abſtinence, with leſſe feeling the want of their accuſtomed diet. All which things, as we condemne in the Papistes: ſo we must carefully take
+<pb n="21" facs="tcp:20709:11"/> heede that they be not found in vs: vnleſſe we haue forgot, that in iudge<g ref="char:EOLhyphen"/>ing them we condemne our ſelues, <note place="margin">
+                  <hi>Rom.</hi> 2. 1.</note> when as we do the ſame things, whi<g ref="char:EOLhyphen"/>che we finde fault worthy in them.</p>
+            <p>
+               <q>An other of theſe corporall ex<g ref="char:EOLhyphen"/>erciſes is watching, or a cutting ſhort of our ordinarie ſleepe: which we may apply to the furtherance of this exer<g ref="char:EOLhyphen"/>ciſe.</q> For beſide that this abſtinence, is a remouing of ordinarie pleaſures and commodities: it appeareth, that ſome thing alſo ſhould be pared from it. For beſide that it is meete that there ſhould be a certaine conformi<g ref="char:EOLhyphen"/>tie and ſutableneſſe of our whole be<g ref="char:EOLhyphen"/>hauiour, all the time of the faſt: the Prophet Ioel exhorting the Prieſtes <note place="margin">
+                  <hi>Ioel.</hi> 1. 13.</note> to this holy exerciſe of faſt, biddeth
+<pb n="22" facs="tcp:20709:12"/> them that they ſhould continue in ſackcloth in the night time, exten<g ref="char:EOLhyphen"/>ding this exerciſe (at the leaſt) to ſom part of the night. Where notwithſtan<g ref="char:EOLunhyphen"/>ding it is to be noted, that as well in the former abſtinence from meate, as in this withdrawing of ſome part of ſleepe, that neither is ſo ſtreightly required of the Lord, but that thoſe whoſe either diſeaſe, or other infir<g ref="char:EOLhyphen"/>mitie will not beare this abſtinence, without hazard of their health, may vſe ſo much libertie, as ſhall ſerue for the preſeruation of their health: ſo they take heed they vſe not this gen<g ref="char:EOLhyphen"/>tle dealing of the Lord, as a cloake to hide the lustes of their fleſh withall. <q>A third kinde of abstinence is in the apparell, that albeit they put not on
+<pb n="23" facs="tcp:20709:12"/> ſackcloth and aſhes, as the holy fa<g ref="char:EOLhyphen"/>thers did in times paſt, yet that they content them ſelues with a common kinde of attire, auoyding all ſuch coſt<g ref="char:EOLhyphen"/>lineſſe and curioſitie, wherby in tric<g ref="char:EOLhyphen"/>king and trimming vp them ſelues, the fleſh may take occaſion of being proud.</q> Thus the lord, when he would haue the children of Iſrael to hum<g ref="char:EOLhyphen"/>ble <note place="margin">
+                  <hi>Exod.</hi> 33. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> them ſelues before him: ſpake to Moſes, ſaying, ſpeake vnto the chil<g ref="char:EOLhyphen"/>dren of Iſrael, that for the preſent time, they lay aſide their iewels and ornaments, that I may knowe what I ſhall do with them. And thus farre hath it bene ſpoken of the outward exerciſes, which are generall, and to be don of al, which make this ſolemne profeſſion of repentance. There is one
+<pb n="24" facs="tcp:20709:13"/> yet which is more ſpeciall, belonging vnto married perſons alone, which is, that they for the time, ſhould with <q>conſent abſtaine from the mutuall fe<g ref="char:EOLhyphen"/>lowſhip <note place="margin">1. <hi>Cor.</hi> 7. 5.</note> one of an other, which is ſo ſtraitly required, that euen the brid<g ref="char:EOLhyphen"/>grome <note place="margin">
+                     <hi>Ioel.</hi> 2. 16.</note> and the bride, (which of all o<g ref="char:EOLhyphen"/>ther ought to haue the greatest pri<g ref="char:EOLhyphen"/>uiledge in that point) are bidden at ſuch times, to come out of their cha<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bers.</q>
+            </p>
+            <p>But for as much as, the kingdome <note place="margin">
+                  <hi>Rom.</hi> 14. 17</note> of heauen ſtandeth not in theſe thin<g ref="char:EOLhyphen"/>ges, and the Lorde being a ſpirit, will be worſhipped in ſpirite and trueth: either theſe exerciſes must lead vs to ſome farther thing, or elſe the ſame accuſation will lye againſt vs, wherewith the Prophet charged the
+<pb n="25" facs="tcp:20709:13"/> Iſraelites, who contenting them<g ref="char:EOLhyphen"/>ſel<g ref="char:EOLhyphen"/>ues with the outwarde ceremony of <note place="margin">
+                  <hi>Eſay.</hi> 58. 30</note> abstinence, were ſent home as emp<g ref="char:EOLhyphen"/>tie as they came. And in deede, vn<g ref="char:EOLhyphen"/>leſſe we bring more with vs, the<g ref="char:cmbAbbrStroke">̄</g> this our abſtinency, our fastes may bee matched with the beaſtes faſt of Ni<g ref="char:EOLhyphen"/>niuie, for they alſo both eate nothing, <note place="margin">
+                  <hi>Ionas.</hi> 3. 7.</note> and were couered with ſackcloth: yea the beastes faſt, may be ſo much bet<g ref="char:EOLhyphen"/>ter then ours, as there be ſome kinds of beaſtes, that can longer endure without meate and ſleepe then wee. Where the Papistes faſt, which was ſhewed before to be childiſhe, may here be proued to be beaſtly and bru<g ref="char:EOLhyphen"/>tiſh. For if they did onely abſtaine from meate, they iudged themſelues to haue bolden a good faſt vnto the
+<pb n="26" facs="tcp:20709:14"/> Lorde. There followe the inwarde vertues helped forward by the bodily exerciſe, which in the number * two. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſdra.</hi> 6. 21.</note> 
+               <q>The one is the humbling and caſting downe of our ſelues, before the high maiestie of God, with ſorrow for our ſinnes: the other, is the aſſurance that we haue, that with forgiueneſſe of them, we ſhall obtaine the thinge that we ſtande in need of, and make ſute for.</q>
+            </p>
+            <p>Here therefore, firſt commeth to be conſidered, our humbling and ca<g ref="char:EOLhyphen"/>ſting downe, which is a vile eſtee<g ref="char:EOLhyphen"/>ming of our ſelues, aunſwering to the outward exerciſe. <q>For therefore doe we abstaine for a time, that we might therby haue a quicker feeling of our owne vnworthineſſe. There<g ref="char:EOLhyphen"/>fore
+<pb n="27" facs="tcp:20709:14"/> we bring downe the bodie, that the minde may be likewiſe brought downe.</q> Therefore we crucifie the fleſh, that the deſerued death of the ſpirite, may be the better knowen. Therfore we abstaine from our plea<g ref="char:EOLhyphen"/>ſures <note place="margin">
+                  <hi>Mark.</hi> 2. 20. <hi>Luk.</hi> 5. 35. <hi>Math.</hi> 9. 15.</note> and commodities, that through conſcience of ſinne, <q>and feeling of the wrath of God, either preſent, or to come for the ſame: we might drawe our ſelues to a greater ſorrowe.</q> In which reſpect, the exerciſe which the other Euangeliſtes call fasting, Saint Mathew calleth mourning. <q>Here-vppon <note place="margin">
+                     <hi>Ioel.</hi> 2. 17. 1. <hi>Sam.</hi> 7. 6.</note> it cometh, that weeping which is a witneſſe of our ſorrowe, is annex<g ref="char:EOLhyphen"/>ed vnto the faſt;</q> which the children of God haue don ſo plentifully in this exerciſe, that they haue bene ſayde, <note place="margin">1. <hi>Sam.</hi> 7. 6.</note>
+               <pb n="28" facs="tcp:20709:15"/> to haue drawne whole bucketes of water: which the depth of the ſorowe for their ſinnes, &amp; the anger of God, againſt them hath miniſtred. And as theſe outwarde exerciſes are com<g ref="char:EOLhyphen"/>maunded, to drawe vs to a feeling of our vnworthineſſe: ſo in the feeling thereof, by them we make a ſolempne confeſſion of the ſame. <q>For the Chil<g ref="char:EOLhyphen"/>dren of God in time paſt, by their ab<g ref="char:EOLhyphen"/>ſtinence from meate and drinke, con<g ref="char:EOLhyphen"/>feſſed themſelues vnworthy ſo much as of a crumme of bread, or droppe of water: by putting on ſackcloth, vn<g ref="char:EOLhyphen"/>worthie of the worſt ragge to couer their ſhame with. So that if com<g ref="char:EOLhyphen"/>mon honestie and health would haue ſuffered, they woulde haue ſtripped them ſelues ſtarke naked. The ſame
+<pb n="29" facs="tcp:20709:15"/> is to be vnderstanded, of the benefite of ſleepe, and company of mariage, as alſo of all other the commodities of this life: whereof they did not onely confeſſe themſelues vnworthie, but in that they put duſt &amp; aſhes vpon their heads, they gaue to vnderſtand, that they were vnworthy of the life it ſelf, and that they deſerued to be as farre vnderneath the ground, as they were aboue it: yea if there had beene any thing, apter to haue ſet foorth their euerlasting condemnation in hell, of that alſo woulde they haue borne the marke, thereby to declare their guilt and deſert of the ſame. So that here<g ref="char:EOLhyphen"/>by they doe iustifie the Lorde, in that vengeaunce against them: whereof by this humbling of themſelues, they
+<pb n="30" facs="tcp:20709:16"/> ſeeke redreſſe.</q> If then we keepe a ho<g ref="char:EOLhyphen"/>ly faſt vnto the Lord, we muſt there<g ref="char:EOLhyphen"/>by be humbled in our ſelues before the Lorde: but if vppon confidence of our faſting, wee waxe bolder to ſinne, in a perſuation that through <note place="margin">
+                  <hi>Luk.</hi> 5. 33. <hi>Luk.</hi> 18. 11.</note> obedience giuen vnto him, in this one point, wee may be bolder to be diſobedient in others: or if the vſe hereof doe make vs ſwell againſt our brethren, and after the example of the Phariſees, deſpiſe them which do not faſt as we doe: then is the fast, appointed of the Lord for our medi<g ref="char:EOLhyphen"/>cine, become our bane and poyſon.</p>
+            <p>And therefore here nowe, wee giue a newe charge vppon the Popiſh fast, a great deale more hot then the former. For ſeeing that they with
+<pb n="31" facs="tcp:20709:16"/> the proude Phariſee, boaſt of the merite of their faſtes, ſetting theſe faſtes (as other workes) in the place of the bloode of Christ: It is mani<g ref="char:EOLhyphen"/>fest, that their fastes are ſo farre fro<g ref="char:cmbAbbrStroke">̄</g> humbling them, that through the o<g ref="char:EOLhyphen"/>pinion of them, they riſe vp againſte the Lorde, and doe their beſt to ſet themſelues, euen in the throne of God: ſo that vnto the childiſhneſſe &amp; brutiſhnes, of their fast aboue mentio<g ref="char:EOLhyphen"/>ned, here they haue added an horrible &amp; blaſphemous ſacriledge. <q>To the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paſſing of this true humbling of our ſinnes, is annexed neceſſarily, an in<g ref="char:EOLhyphen"/>formation and meditation of the fil<g ref="char:EOLhyphen"/>thineſſe of our ſinnes, and of the iuſte vengeance of the Lord againſt them, declared in the threateninges of the
+<pb n="32" facs="tcp:20709:17"/> law, and execution of the iudgemen<g ref="char:EOLhyphen"/>tes of God against the wicked, and namely againſt our Sauiour Christ, who putting vppon himſelfe our wic<g ref="char:EOLhyphen"/>kedneſſe, ſuffered hell paines for it: and ſpecially an information and me<g ref="char:EOLhyphen"/>ditation of thoſe, both ſinnes and pu<g ref="char:EOLhyphen"/>niſhmentes, which the preſent time and perſons doe giue occaſion of.</q> And thus farre touching the first part of the inwarde vertues in faſting; ſtan<g ref="char:EOLhyphen"/>ding in the caſting downe of our ſel<g ref="char:EOLhyphen"/>ues before the Lord.</p>
+            <p>There followeth the other part, <q>which is a profeſſion of our faith, that we ſhall be lifted vp as high, through the grace of the Lord our God in Ie<g ref="char:EOLhyphen"/>ſus Chriſt, as the conſcience of our ſinnes doth caſt vs downe:</q> and that
+<pb n="33" facs="tcp:20709:17"/> we ſhall obtaine, the remouing of the euills tending to our destruction, (through the worthineſſe of our Sa<g ref="char:EOLhyphen"/>uiour Christ,) which either preſent<g ref="char:EOLhyphen"/>ly preſſe vs, or hange ouer our heads, through our owne vnworthineſſe. For as true repentance, casting vs downe with one hand, both in ſorrowe for our ſinnes, and confeſſion of the ſame, leaueth vs not in our downe<g ref="char:EOLhyphen"/>fall, but through faith, reacheth vs the other hand, to lift vs vp againe: ſo this ſolemne profeſſion of our re<g ref="char:EOLhyphen"/>pentance, carying vs first to the val<g ref="char:EOLhyphen"/>ley of trouble, afterward bringeth vs backe againe, to the gate of hope. In which respest, we alwayes finde in the holy Scriptures, <note n="*" place="margin">
+                  <hi>Ezra.</hi> 9. 5. <hi>Nehem.</hi> 1. 4. <hi>Dan.</hi> 9. 3. <hi>Iudg.</hi> 20. 26 <hi>Luke.</hi> 5. 33. 1. <hi>Cor.</hi> 7. 7.</note> that faſting is ioyned with praier, <note n="*" place="margin">2. <hi>Chron.</hi> 20. 6. <hi>Iames.</hi> 1. 6. <hi>Iohn.</hi> 16. 23.</note> which ca<g ref="char:cmbAbbrStroke">̄</g> neuer
+<pb n="34" facs="tcp:20709:18"/> be truly made, without hope of obtai<g ref="char:EOLhyphen"/>ning the grace, that is prayed for. But for as much as prayer, is a daily and ordinarie exerciſe of Gods children: it is manifeſt <note n="*" place="margin">
+                  <hi>Ionas.</hi> 3. 8. <hi>Eſay.</hi> 58. 4.</note> that by the prayer which is coupled with faſting, there is vnderſtanded a ſpeciall or peere<g ref="char:EOLhyphen"/>leſſe kinde of prayer, both in zeale and ſtrength of prayer, as alſo in continu<g ref="char:EOLhyphen"/>ance of the ſame. Whereby appeareth, that here is an other vſe of the out<g ref="char:EOLhyphen"/>ward abſtinence, <q>that it might be as it were a wing, wherewith the praier, that otherwiſe through earthly af<g ref="char:EOLhyphen"/>fections, creepeth vpon the grounde, might the eaſilier flee vp into heaue<g ref="char:cmbAbbrStroke">̄</g>: and that it might be a grindeſtone, to make a point of it, that it may pearce, and to ſet an edge that it may
+<pb n="35" facs="tcp:20709:18"/> cut, both the viſible and inuiſible eni<g ref="char:EOLhyphen"/>mies, which we pray againſt. And therefore the outwarde abſtinence that pulleth downe the body, helpeth to lift vp the minde, and crucifying the fleſh, it quickneth the ſpirite, and maketh it more liuely to this exer<g ref="char:EOLhyphen"/>ciſe.</q> Where yet againe the Popiſh faſt is found inſufficient, which vpon the dayes of their faſtes, had no extra<g ref="char:EOLhyphen"/>ordinarie exerciſes of prayer: more then other dayes which were not fa<g ref="char:EOLhyphen"/>ſted. To the better performance alſo of this part, <q>is annexed an informatio<g ref="char:cmbAbbrStroke">̄</g> and meditation, of the gracious pro<g ref="char:EOLhyphen"/>miſes of GOD, especially ſuch as may ſerue for reliefe of the preſent occa<g ref="char:EOLhyphen"/>ſions.</q>
+            </p>
+            <p>Wherin the better to correct our dul<g ref="char:EOLhyphen"/>neſſe
+<pb n="36" facs="tcp:20709:19"/> and heauineſſe to this ſo holy an exerciſe, let vs remember, that it is to obtaine ſome ſpeciall grace at the hand of the Lord. Whereby it is giuen vs to vnderstand, that vpon due holding of this fast vnto the Lord, there be excellent promiſes &amp; a most ſingular reward. Whereof the place of Ioel, as it ſpake before, for the commaundement of all the fastes, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oel.</hi> 2. 13. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 19. 20.</note> which the people of God vſed, ſo will it vndertake for the promiſes, which the Lorde hath made, to all thoſe which ſubmit them ſelues to the o<g ref="char:EOLhyphen"/>bedience thereof. The truth of which promiſes is ſo manifest in the Scrip<g ref="char:EOLhyphen"/>tures: as the Sunne (at noone dayes) can be no clearer. For let all the fastes of the holy Churches, and of
+<pb n="37" facs="tcp:20709:19"/> godly men laid out in Scripture, both of the olde and newe Teſtament be <note n="*" place="margin">
+                  <hi>Iudg.</hi> 20. 23. <hi>Ezra.</hi> 19. 6<g ref="char:punc">▪</g> 
+                  <hi>Heſt.</hi> 4. 16. 2. <hi>Chron.</hi> 20. 3.</note> turned ouer: and it ſhall be ſeene, that the end of their fast (which kept it in any meaſure of trueth and ſim<g ref="char:EOLhyphen"/>plicitie) was a feast, and the iſſue of their mourning, great reioyſing. For, <note place="margin">
+                  <hi>Dan.</hi> 9. 20. <hi>Ionah.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10<g ref="char:punc">▪</g>
+               </note> albeit the ordinarie prayers of the faithfull, returne not emptie vn<g ref="char:EOLhyphen"/>to them againe: yet hauing regarde vnto theſe, which are ioyned with this exerciſe, they may worthily ſeem to be barren, which are otherwiſe <note place="margin">
+                  <hi>Act.</hi> 12. 5. <hi>Act.</hi> 13. 2.</note> fruitfull, and to be blasted, which o<g ref="char:EOLhyphen"/>therwiſe ſeeme ful eared. Yea the faſt of the wicked king Achab, ioined with <note place="margin">1. <hi>Regum.</hi> 21<g ref="char:punc">▪</g> 27.</note> no true repentance, nor ſo much as with any true knowledge how to ſerue the Lord, but performed in ſome ſort
+<pb n="38" facs="tcp:20709:20"/> onely in keeping of the outward and bodily ceremonte, went not vnrewar<g ref="char:EOLhyphen"/>ded from the Lorde. For euen by the very ſhadowe of his exerciſe, the exe<g ref="char:EOLhyphen"/>cution of that iudgement, which was awarded againſt him, touching his vtter raſing from the kingdome of Iſ<g ref="char:EOLhyphen"/>rael: was differred vntill his ſonnes dayes. Nowe, if the comming within the ſhadowe of this exerciſe, doeth heale ſome diſeaſes: what will it doe if wee come to touche the bodye thereof? and if the leaues of it, haue ſome vertue to preſerue men from the vengeance of God: howe ſoue<g ref="char:EOLhyphen"/>raigne is the fruit, to deliuer vs from the wrath to come? And if the ordinarie obedience of the children of GOD, goeth not emptie, and vn<g ref="char:EOLhyphen"/>rewarded
+<pb n="39" facs="tcp:20709:20"/> from the preſence of GOD: this extraordinarie obedi<g ref="char:EOLhyphen"/>ence and exerciſe, in the worſhippe of GOD, must needes receiue ſpe<g ref="char:EOLhyphen"/>ciall, and extraordinarie bleſſinges from his hande. When Benhadab <note place="margin">1. <hi>Regum.</hi> 20. 29.</note> the Syrian king, ouercome by A<g ref="char:EOLhyphen"/>chab king of Iſrael, was out of hope of any ſafetie, at the length by the aduice of his ſeruaunts, he put him <note place="margin">1. <hi>Reg.</hi> 20. 31. <hi>to</hi> 35.</note> ſelfe and his companie in ſackcloth, with ropes about their neckes: think<g ref="char:EOLhyphen"/>ing by humbling them ſelues be<g ref="char:EOLhyphen"/>fore the king, to obtaine pardon, which came to paſſe accordingly. If therefore, men in hope of obtai<g ref="char:EOLhyphen"/>ning pardon, will humble them ſelues to them, of whome they haue no pro<g ref="char:EOLhyphen"/>miſe, that they ſhal obtaine any thing:
+<pb n="40" facs="tcp:20709:21"/> howe much more ought we to doe it, which haue ſo ſure promiſes of good ſucceſſe? and if mercy was obtained of men, in whom there is ſcanta drop of that pitie and compaſſion, which is ſeafull in the Lorde: we may be well aſſured, that we ſhall not miſſe of it at his hande. And if one enimie, can looke for it at the hande of an other: we may with greater aſſurance, looke for it at the hande of the Lorde, to whome we are already reconciled, by the bloud of his ſonne.</p>
+            <p>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erefore, if the authoritie of the Lorde ſhould not compell vs: yet the most liberall and certaine promi<g ref="char:EOLhyphen"/>ſes, ſhould allure vs to this exerciſe. <q>Which if we doe not, what remai<g ref="char:EOLhyphen"/>neth, but that ſuch as will not fast,
+<pb n="41" facs="tcp:20709:21"/> with the ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dren of GOD, must eate and drink<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the furious wrath of GOD, with the wicked: they that will not weepe with the one, must <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owle with the other.</q> And finally, they that will haue no part, in the o<g ref="char:EOLhyphen"/>bedience of the commaundement gi<g ref="char:EOLhyphen"/>uen hereof, to both the peoples, vn<g ref="char:EOLhyphen"/>der the Lawe and vnder the Gospell, must haue no part in the promiſes made to any of them: according as the Lorde threateneth, that who ſo euer ſhall not afflict or humble his <note place="margin">
+                  <hi>Leui.</hi> 23. 29. <hi>Luke.</hi> 5. 35.</note> ſoule with the rest, that he will de<g ref="char:EOLhyphen"/>stroy them from among his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>The time of fasting is the time <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f affliction, <q>either for want of ſome great benefite needfull, or through
+<pb n="42" facs="tcp:20709:22"/> feeling of ſome great iudgement pre<g ref="char:EOLhyphen"/>ſent, or to come.</q> Where the Popi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fast must paſſe an other condemnati<g ref="char:EOLhyphen"/>on, which maketh no difference o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> choice of time: but appointeth euery Friday, and other ſet euens yearely, whether the time be prosperous o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnprosperous, whether it be peace o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warre, health or ſickneſſe, dearth o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plentie. Which is al one, as if the Phy<g ref="char:EOLhyphen"/>ſician ſhuld nowe appoint his patien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this day twentie or fortieyeres hence to take a purgation, or to be let bloud<g ref="char:punc">▪</g> In which caſe, either he must be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophet, rather then a Phyſician, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowe that he ſhall on that day, hau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neede of it: or elſe he must be a Phy<g ref="char:EOLhyphen"/>ſician of no value, ignorant, or vn<g ref="char:EOLhyphen"/>faithfull. As therefore the Phyſi<g ref="char:EOLhyphen"/>cia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:20709:22"/> openeth no vaine, but with ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uation where the ſigne is, giueth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purgation, without heede taking <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the time of the yeare, whether it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpring or fall, whether it be hot <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> colde: ſo it behoueth the ſpiritu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Phyſician, to haue an eye vnto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e time, when this medicine is in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſon. And ſo much the more, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re rather then there, as the daun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r is greater. For as a newe piece <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cloth added to an olde garment, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>keth ſomething from the olde, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d cauſeth the rent to be worſe, <note place="margin">
+                  <hi>Luke.</hi> 5. 36.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en before: ſo fasting vnfitly ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lied, to the ſtate of thoſe that are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ioyned to keepe it, maketh them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſe, then they were before the faſt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea that which more is, as the newe <note place="margin">
+                  <hi>Luke.</hi> 5. 37.</note>
+               <pb n="44" facs="tcp:20709:23"/> wine put into olde veſſels, doeth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> onely make them worſe, but bre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them all to pieces: ſo this fast thr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vpon thoſe, which are not, either <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the time, or for ſome other cauſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for it, doeth vtterly destroy them<g ref="char:punc">▪</g> Whereby men may perceiue, wh<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cauſe we haue to make a great co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſcience of the Popiſh fast, as th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which is able of it ſelfe (if there we<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no other corruptions amongest them to driue a man to eternall destructi<g ref="char:EOLunhyphen"/>on.</p>
+            <p>According alſo to the great<g ref="char:EOLhyphen"/>neſſe of the affliction, the time of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fast is taken, by the diſcretion o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">
+                  <hi>Leuit.</hi> 23. 27. 28.</note> thoſe, <q>to whome it belongeth, at the least for a whole day. And if the wrath of the Lorde be hotter, then two
+<pb n="45" facs="tcp:20709:23"/> dayes or <note n="*" place="margin">
+                     <hi>Eſter.</hi> 4. 16</note> elſe three, as it appea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the example of the Iewes in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ters time and of Saint Paul. <note place="margin">
+                     <hi>Act.</hi> 9. 9.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd this time (what ſo euer) hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nature of a Saboth. For therein <note place="margin">
+                     <hi>Leuit.</hi> 23. 30. 31.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are bound to abstaine from their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly labours, according to the ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightneſſe, and with the ſame ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ions, that they are bound to ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the Saboth. And therefore the <note place="margin">
+                     <hi>Ioel.</hi> 2. 12. <hi>Leui.</hi> 23. 32.</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phet willeth them to ſanctifie a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: And the Lord threateneth, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo euer ſhall doe any worke on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, him ſhall he cut off from a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gest his people. The end whereof <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that men ſetting them ſelues a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from their daily occupations, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t be wholy bestowed in the ſpi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>all exerciſes aboue ſpecified.</q>
+               <pb n="46" facs="tcp:20709:24"/> Whereby that we may knowe, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there was neuer a thread in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cloth of the Popiſh fast, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not throughly infected with the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rituall leproſie, of diſobedience v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lorde: it is to be noted, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> where they ordayned many, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wicked and vnneceſſarie holie day<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this * one (and beſides the Sab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the onely holie day appointed of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lorde) they quite raſed out of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Kalender. And of the fast in ge<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rall thus farre.</p>
+            <p>The kindes or ſortes of fastes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> followe, which are either priuat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> publique.</p>
+            <p>The priuate fast is that, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vndertaken vpon ſome partic<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> calamitie, by the diſcretion of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="47" facs="tcp:20709:24"/> against whome the calamitie is ſent. And it is either of a particular man <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> houſhold. In the former whereof it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be obſerued, that for as much as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he fast is ioyned with a ſeparation <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om their daily occupations: that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either children, nor ſcholers, nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eruantes, nor any other which be at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he dispoſition and gouernement of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers, can chuſe any ſuch day ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ointed for common occupations, without the conſent of thoſe that haue commaundement ouer them. Without which conſent, they must be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orced to holde their faſtes vpon the Lordes day, or other dayes of rest, establiſhed in the places of their a<g ref="char:EOLhyphen"/>bode. For here the Lawe of the Lorde hath place, that if the wife,
+<pb n="48" facs="tcp:20709:25"/> ſonne, or daughter, vowe a vowe vnto <note place="margin">
+                  <hi>Num.</hi> 30. 4.</note> the Lord: that the huſband or father ſhall haue power to breake it.</p>
+            <p>
+               <q>The publique faſt is that, which is vndertaken vpon ſome more generall calamitie of the Church, at the ap<g ref="char:EOLhyphen"/>pointment of them, which (vnder <note place="margin">
+                     <hi>Ioel.</hi> 2. 15.</note> Christ) haue the gouernement of the places, where the fast is holden.</q> In this fast, bicauſe a publique aſſembly is commaunded: it followeth that the chiefe instruction of the foreſaid profeſſion of repentance, is to be fet<g ref="char:EOLhyphen"/>ched from the publique preaching of the word.</p>
+            <p>Now leauing the cauſes of the pri<g ref="char:EOLhyphen"/>uate faſts, to the examinatio<g ref="char:cmbAbbrStroke">̄</g> of euery one, which ca<g ref="char:cmbAbbrStroke">̄</g> beſt iudge of their own estate: let vs conſider, what cauſes
+<pb n="49" facs="tcp:20709:25"/> there be of a generall fast amongeſt vs. Wherein that it may be ſeene, that the trumpet of fasting is blowen rather, by the breath of GOD, then by the mouth of man: let vs take a ſhort vewe of the cauſes, of the fastes mentioned in the Scripture. <q>The cauſe of the faſt is the wrath of God against the Church, where is to be conſidered,</q> that the people of God haue not onely regarded this wrath, againſt them ſelues particularly, but againſt others alſo, of the ſame ſoci<g ref="char:EOLhyphen"/>etie and fellowſhippe in religion that they were of, through a mutuall fee<g ref="char:EOLhyphen"/>ling and compaſſion which they haue one with an other: as in the exa<g ref="char:cmbAbbrStroke">̄</g>ple of the Church of Antioch, whoſe faſt <note place="margin">
+                  <hi>Acte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 2.</note> appeareth to haue ben taken in hand,
+<pb n="50" facs="tcp:20709:26"/> rather for the miſerie of the Church of Ieruſalem, then for them ſelues. Now the Churches round about vs, being fallen into great decay, partly by the ſpirituall miſeries, as well of the hereſies of Papiſts, Arrians, Anabap<g ref="char:EOLhyphen"/>tiſts, the Familie of loue &amp;c. as alſo of the ſchiſme of Lutheraniſme daily preuayling, partly by bodily plagues of the peſtilence, almoſt in al places: of the ſword in our neighbour cou<g ref="char:cmbAbbrStroke">̄</g>tries, and of the famine which waiteth co<g ref="char:cmbAbbrStroke">̄</g>monly vpo<g ref="char:cmbAbbrStroke">̄</g> the ſame: it is euident that therby groweth one cauſe of hu<g ref="char:cmbAbbrStroke">̄</g>bling our ſelues before our God. And when this wrath is co<g ref="char:cmbAbbrStroke">̄</g>ſidered, either in that which is alreadie come, or in that which may be feared ſhortly to come: to whether ſo euer of the cauſes we looke, we ſhal find, that we haue cauſe
+<pb n="51" facs="tcp:20709:26"/> to fast. For what ſpirituall euil is in any of all their Churches, which are not altogether in ours? not one of thoſe detestable hereſies, but are lodged a<g ref="char:EOLhyphen"/>mongſt vs. And although the ſchiſme of Lutheraniſme be not among vs, yet there is almoſt a great diſtracti<g ref="char:EOLhyphen"/>on of minds for the Church gouerne<g ref="char:EOLhyphen"/>ment, beſide the diuerſities of iudge<g ref="char:EOLhyphen"/>mentes in many other matters. And among bodily puniſhments, the plague hath indifferently fed, and yet doeth feed vpo<g ref="char:cmbAbbrStroke">̄</g> vs. The ſword hath ben ſha<g ref="char:EOLhyphen"/>ked at vs both in the North by tray<g ref="char:EOLhyphen"/>tours, and in the South by diſordered wicked perſons. And ſhuld it not ſtrik vs that her maieſtie was of late in daunger of her life by a ſhot. Which that it was not meant towardes her,
+<pb n="52" facs="tcp:20709:27"/> ought not to abate our care for her maieſtie, but rather encreaſe it: as that which was more nerely directed against her of the Lorde, to make both her and vs to crie for his grau<g ref="char:EOLhyphen"/>ous couer and protection ouer her. And if we conſider the wrath that hangeth ouer our heades, the notes thereof are taken by the example of the people of God, and firſt of Ezra, <note place="margin">
+                  <hi>Ezra.</hi> 9. 3.</note> who vnderſtanding that the people had married ſtraunge women, faſted: wherevppon we haue this note of the wrath to come, that conſidering how that ſinne is committed openly in the land in diuerſe ſortes, that therefore anger is at hand. Here may be ha<g ref="char:cmbAbbrStroke">̄</g>dled with godly and diſcrete wiſdome the ſinnes of the lande.</p>
+            <pb n="53" facs="tcp:20709:27"/>
+            <p> The ſeconde note to knowe the tempeſt to come, is taken from the Niniuites faſt. Wherevppon we ga<g ref="char:EOLhyphen"/>ther, <note place="margin">
+                  <hi>Ionas.</hi> 3. 5.</note> that for ſomuch as we are gree<g ref="char:EOLhyphen"/>uouſly threatened, aſwell by the mi<g ref="char:EOLhyphen"/>niſters and ſeruauntes of the Lorde, that ſpeake in his name vnto vs, as alſo by his late ſhaking of the earth: that ſharpe iudgement (without re<g ref="char:EOLhyphen"/>pentaunce) muſt ſpedily come vppon vs. The thirde is taken from ſignes of the wrath of god, which may break out againſt vs: as in Hester, where <note place="margin">
+                  <hi>Heſter.</hi> 4. 6</note> it was concluded at the requeſt of Hamon, of the deſtruction of the whole Church, wherewith may fit<g ref="char:EOLhyphen"/>ly be compared the holy league (as they ſay) and decree of the late cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cel of Trent, againſt the whole church
+<pb n="54" facs="tcp:20709:28"/> and against ours particularly. An other ſigne, is the preparation made againſt the Church, or an indeuour to execute their malice, which draue Io <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Paral.</hi> 20.</note> ſaphat and other moe to a faſt. Here the loftie countenaunces, and vn<g ref="char:EOLhyphen"/>dewtifull demeanour of the Papistes, may be conſidered, with their rebel<g ref="char:EOLhyphen"/>lious attempts in Ireland; as alſo the Spaniſh nauie, and great preparation made amongst them of the holy lea<g ref="char:EOLhyphen"/>gue, with the preſent troubles in Scotland, &amp; like accidents, ſuf<g ref="char:EOLhyphen"/>ficient to procure the prac<g ref="char:EOLhyphen"/>tiſe of this holy exer<g ref="char:EOLhyphen"/>ciſe.</p>
+            <div type="part">
+               <pb n="55" facs="tcp:20709:28"/>
+               <head>A GENERALL CONFESSION OF Sinnes, to be made at the exerciſe of faſting: the more particuler confeſſio<g ref="char:cmbAbbrStroke">̄</g> being taken according to the eſtate of the ſeuerall Churches, by the good diſcretion of the miniſter, vp<g ref="char:EOLhyphen"/>pon the knowledge thereof.</head>
+               <p>
+                  <seg rend="decorInit">O</seg> Lord which art glori<g ref="char:EOLhyphen"/>ous in power &amp; holi<g ref="char:EOLhyphen"/>nes, we being but dust and aſhes, with the ca<g ref="char:EOLhyphen"/>ſting of our ſelues dow<g ref="char:EOLhyphen"/>ne, at the foote of thy high Maieſtie: confeſſe that me are moſt vile ſinners, conceiued and borne in ſinne, &amp; that we are by nature nothing elſe, but a lumpe of all. wickedneſſe, whoſe naturall propertie is, to growe in
+<pb n="56" facs="tcp:20709:29"/> ſinne, as we growe in yeares, and to waxe ſtronge in wickedneſſe, as the powers of our mindes and bodies re<g ref="char:EOLhyphen"/>ceiue strength. There is in vs, no holſome nor ſounde knowledge howe to obey: there is no manner of good will or affection to pleaſe thee: finally there dwelleth no good thing in our fleſh. And although our curſed e<g ref="char:EOLhyphen"/>state, doeth herein greatly appeare, yet our ſinne is made out of meaſure ſinnefull, through the exceding grace which thou offrest by the Goſpell of thy deere ſonne; wherby wee are ſo farre from profiting, that of our ſelues we ſhoulde waxe worſe and worſe. For the more light of knowledge is ſhewed, the blinder would we remain: the greater obedience is taught, the
+<pb n="57" facs="tcp:20709:29"/> frowarder and ſtubberner woulde we become, if thou by the mightie wor<g ref="char:EOLhyphen"/>king of thy holy ſpirite, ſhouldeſt not cauſe it to be fruitfull. And although we haue this naturall corruption in common, with the whole rotten race of Adam: yet we confeſſe, that in vs it hath budded, and ſhotte foorth ſo much more then in others, as wee haue had moe meanes to kill it, and to cauſe it to wither, the<g ref="char:cmbAbbrStroke">̄</g> others haue had. Where first of all, the gracious offer of the treaſure of thy holy goſpel vnto vs, maketh vs guiltie many wayes. For where paſſing by many other nations, thou haſt truſted our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation withall: yet with a number of vs, hath it found as ſmall entertain<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, and felt as great reſiſtaunce,
+<pb n="58" facs="tcp:20709:30"/> as amongeſt them, at whoſe gates it neuer knocked. For a great portion of the land, partly neuer yelding the<g ref="char:cmbAbbrStroke">̄</g> ſelues to the obedience thereof, and partly falling from it, after they had once yeelded: ſtand proudly as it were at the ſtaues end with thee. The reſt which make profeſſion of their ſub<g ref="char:EOLhyphen"/>mittaunce vnto it, doe it not accor<g ref="char:EOLhyphen"/>dingly. For firſt, there be heapes of our people, which either through an<g ref="char:EOLhyphen"/>yrckeſomneſſe of the yron yoke of the Popiſh religion, or through a wicked opinion which they nouriſh, of embra<g ref="char:EOLhyphen"/>cing any religion ſet foorth: ſo cast a<g ref="char:EOLhyphen"/>ſide the former poperie, as they ſtill abyde in an vtter ignoraunce of the trueth it ſelfe: in ſuch ſorte, (that through want of Preaching) they
+<pb n="59" facs="tcp:20709:30"/> are as rawe in the knowledge of the true ſeruice of thee, as they were expert before in the ſeruice of the deuill. And where knowledge is, to any ſuch ſufficiencie as is requiſite, for the inheritours of the kingdome of heauen: there is it (for a great part) ioyned with ſuch hypocriſie, as ma<g ref="char:EOLhyphen"/>keth them more detestable before thee, (which ſearcheſt the very rai<g ref="char:EOLhyphen"/>nes,) then if they had ſtill continued in their ignorance. Now, for the rem<g ref="char:EOLhyphen"/>nant of vs, which through grace haue truly, and faithfully beleeued, it is with ſo great weakneſſe of faith, and ſo ſmall reformation of man<g ref="char:EOLhyphen"/>ners: That our glorious profeſſion of the Goſpell, ſupported and borne out with ſo ſmall ſhewe of the
+<pb n="60" facs="tcp:20709:31"/> the fruites, which the excellencie thereof doeth require, maketh not onely the enemies to condemne vs, but our ſelues to ſuſpect one an other, whether we belong vnto thee or no. Wherein O Lord, we acknowledge that to be our great and horrible ſinne, that being put in truſt with this vnspeakable treaſure of thy holy Gospell, and preferred to our neigh<g ref="char:EOLhyphen"/>bours, profeſſours about vs; yet wee are in thankeful obedie<g ref="char:cmbAbbrStroke">̄</g>ce vnto thee, behinde them all: firſt in knowledge, last in zeale; before them in the do<g ref="char:EOLhyphen"/>ctrine of thy holy Goſpell, behind the<g ref="char:cmbAbbrStroke">̄</g> in the diſcipline of the ſame. The yoke of the ſlauery of our bodies, whi<g ref="char:EOLhyphen"/>che the Popiſh religion layed vppon vs, wee willingly ſhake off: but the
+<pb n="61" facs="tcp:20709:31"/> holy bandes of thy lawe, whereby our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iotous life and affections, ſhoulde be brought into bondage, we doe hard<g ref="char:EOLhyphen"/>ly, and heauily admitte. The Goſpell which brought a freer vſe of our lawfull honors, pleaſures and com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odities, was welcome vnto vs: but the ſame Gospell, which reſtraineth the vnlawfull licentiouſneſſe of our ambition, intemperancie and coue<g ref="char:EOLhyphen"/>touſneſſe, is not ſo. Finally ſo much of the Goſpell, as doeth more neerely respect our ſaluation, wee ſeeme to haue ſome care to retaine: but ſo much of it as doth more directly re<g ref="char:EOLhyphen"/>ſpect thy glorie, and the profite one of an other, (thoſe eſpecially which are not of the ſame lande with vs) we make ſmall accompt off. And
+<pb n="62" facs="tcp:20709:32"/> ſeeing the naked treaſure of the holy Gospell, had beene a rich rewarde of a moſt ſeruiceable ſub<g ref="char:EOLhyphen"/>iection: it comming vnto vs not a<g ref="char:EOLhyphen"/>lone, but accompanied with ſo long a peace, with ſo great a welth, ſo plen<g ref="char:EOLhyphen"/>tifull aboundance of all things, as this land hath neuer or ſeldome vſed, o<g ref="char:EOLhyphen"/>ther landes about vs haue long loo<g ref="char:EOLhyphen"/>ked after: maketh our guilt a greate deale more, bicauſe that in thy ſo great a largis towardes vs, we haue bene ſo vngratious towardes thee a<g ref="char:EOLhyphen"/>gaine. Here therefore is another ſtayer, whereby our ſinne climeth higher. For that we, in the commodi<g ref="char:EOLhyphen"/>ties of this life, ſurmounting our aun<g ref="char:EOLhyphen"/>cestours of the ſame profeſſion of the Gospell, in king Henrie and king Ed<g ref="char:EOLhyphen"/>wardes
+<pb n="63" facs="tcp:20709:32"/> time: are, for the fruites that ſuch a liberalitie asketh at our handes, a greate deale worſe then they: and going beyond other landes in theſe outward bleſſinges, are out<g ref="char:EOLhyphen"/>runne of them, euen in the very out<g ref="char:EOLhyphen"/>ward testimonies and tokens of our obedience towardes thee. And beſides this huge heape, and (as it were) reeke, of our generall and com<g ref="char:EOLhyphen"/>mon ſinnes, we haue to confeſſe (at the barre of thy iudgement ſeate) the particular ſinnes that we haue kocked vppe in our ſeuerall estates. For our gouernours, O LORDE, for the most parte, beeing more mindefull of the fulfilling of their affections, then either of thy glorie, or of their good estate,
+<pb n="64" facs="tcp:20709:33"/> which are committed vnto them, haue not helde ſo ſteady a hande as they ought to haue done, either for the ſtabliſhing of the lawes, by which (vnder thee,) they ſhoulde haue ru<g ref="char:EOLhyphen"/>led vs, and we by them ſhould haue beene gouerned of thee, or for the thorough execution of ſo many, and ſo farre foorth as they haue beene well establiſhed. Our Iudges &amp; other miniſters of iuſtice likewiſe, haue ei<g ref="char:EOLhyphen"/>ther ignorantly, or corruptly declyned from righteous iudgement: or giuing ſentence for the trueth, they haue done it (diuerſe of them) with no conſcience of thy true feare, or loue of trueth, but for respect, either of vaine glory, or of perſons. The Mi<g ref="char:EOLhyphen"/>niſters, which ſhoulde haue beene
+<pb n="65" facs="tcp:20709:33"/> lightes vnto all eſtates, haue for the moſt part, no light in themſelues: &amp; their eſtate, in whoſe good constitu<g ref="char:EOLhyphen"/>tion and ſound health, the reſt ſhould haue recouered their health, is of all other the most ſicke vnto death. For if the whole number be ſurueyed, ſcarce the hundred will be founde, to be in the lotte of a faithfull miniſte<g ref="char:EOLhyphen"/>rie. For ah alas, howe many are there, which occupying the place of Ambaſſadours, either for want of a<g ref="char:EOLhyphen"/>bilitie, or for that they loue eaſe and ſleepe, carrie no tollerable ambaſſage at all: how many which carrying the light of the Goſpell in their mouthes, carrie alſo in their handes, the fil<g ref="char:EOLhyphen"/>thie water of ambition and coue<g ref="char:EOLhyphen"/>touſneſſe to quench it with. And
+<pb n="66" facs="tcp:20709:34"/> thoſe which by thy grace, are for their mighte and will in ſome good mea<g ref="char:EOLhyphen"/>ſure iuſtifiable: notwithſtanding, for the moſte parte, beare it with ſuche infirmitie, through ſlippes, aſwell in a ſound and ſubſtanctall maner of tea<g ref="char:EOLhyphen"/>ching, as alſo in an euen life anſwe<g ref="char:EOLhyphen"/>ring therevnto, that if thy bleſſinge were not merueilous vppon their la<g ref="char:EOLhyphen"/>bours, we ſhoulde not neede to feare, the quenching of this fire of the ho<g ref="char:EOLhyphen"/>ly Goſpell, kindled among vs, by the enemies: as that which hauing ſo ſmall attendaunce of blowing, would die of it ſelfe. Finally, the people beare ſo ſmall loue vnto their gouer<g ref="char:EOLhyphen"/>nours of all ſortes, in loue ſo ſmall reuerence, and in them both ſo little willing obedience: that it may bee
+<pb n="67" facs="tcp:20709:34"/> (not vneaſely) ſeene, that all the partes of the Church and common wealth, haue conſpired to prouoke thee Lord against them. Theſe our great and ouergrowen ſinnes, albe<g ref="char:EOLhyphen"/>it they are gotten aboue our heades, yet reſt they not here. For where thou haſt by thy holy ſeruauntes, the Ministers of thy bleſſed worde, ſharpely chidden with vs, and in a ſe<g ref="char:EOLhyphen"/>uere denouncing of thy iudgemen<g ref="char:EOLhyphen"/>tes due vnto them, fearefully threatened vs for them: yet haue wee not trembled at thy voyce, at which the Mountaynes doe melte, and the rockes doe rent a ſunder. A ſtraunge thinge, that the Lyon ſhoulde roare, &amp; the weake
+<pb n="68" facs="tcp:20709:35"/> Lambes ſhould not be affraide: that the Lorde of Hoastes ſhoulde pro<g ref="char:EOLhyphen"/>claime warre againſt vs, and wee ſhoulde not goe forth and meete him, for intreatie of peace. Nay, his wrath (as hath beene ſhewed) hath bene &amp; yet is kindled amongeſt vs: and yet is ſenceleſſe men, and as dead fleſhe, we are not moued. We are pricked, &amp; we feele it not. We are wounded, &amp; we doe not ſo much as aske, who hath ſtricken vs. The tempest that is comming toward vs, threateneth our vtter drowning: and yet as a drun<g ref="char:EOLhyphen"/>ken man, wee lie ſleeping in the ve<g ref="char:EOLhyphen"/>rie toppe of the mast. Whereby it is euident againſt our ſelues, that vn<g ref="char:EOLhyphen"/>to the multitude of our ſinnes, wee haue added an other degree of wic<g ref="char:EOLhyphen"/>kedneſſe,
+<pb n="69" facs="tcp:20709:35"/> which is, the continuance in them: vnto our diſobedience, we haue ioyned ſtubbornes, and the biles and botches of our rebellion being ougly in thy ſight, doe through the putrefaction and feſtredneſſe of them cast out ſuch stincke, as the earth which we tread vpon, the waters whi<g ref="char:EOLhyphen"/>che we drink, and the aire which we breath, are tainted and poiſoned with the infection of them. Yea Lorde, taught by the wonderfull iuſtice of thy righteous lawe, we charge vpon our heads all the ſinnes of our fathers and graundfathers, to the vttermoſt of our generations which are past: as thoſe wherevnto we are iuſter inhe<g ref="char:EOLhyphen"/>ritours, then vnto any landes or goods that they haue left vs. Where<g ref="char:EOLhyphen"/>by
+<pb n="70" facs="tcp:20709:36"/> it falleth out againſt vs, that our ſinnes touch the cloudes, yea, breake into the heauens of thy maieſties own reſidence: whoſe meaſure being alrea<g ref="char:EOLunhyphen"/>die (as it ſemeth) filled, there remai<g ref="char:EOLhyphen"/>neth nothing, but that it ſhold be tur<g ref="char:EOLhyphen"/>ned vppon our heads. Wherevpon we make againſt our ſelues an other con<g ref="char:EOLhyphen"/>feſſion, that we are vnworthy of all the benefites of this life, or of the life to come: both thoſe which wee either haue, or yet hope to enioy, from the greatest to the ſmalleſt, from the kingdome of heauen, to one one<g ref="char:EOLhyphen"/>ly drop of Water. That we are wor<g ref="char:EOLhyphen"/>thie of all the plagues, which either haue heretofore ceaſed, or beene yet poſſeſſed of vs. Yea if thou ſhouldest ranſacke all the hid, &amp; ſecrete trea<g ref="char:EOLhyphen"/>ſures
+<pb n="71" facs="tcp:20709:36"/> of thy fearefull iudgementes, which in thy lawe thou threatenest againſt the breakers thereof, not on<g ref="char:EOLhyphen"/>lie to the raſing and ſweeping vs, from the face of the earth, but alſo to the throwing of vs headlong into the bot<g ref="char:EOLhyphen"/>tomleſſe pitte of hell: yet woulde we therein alſo acknowledge thy righte<g ref="char:EOLhyphen"/>ous iudgementes: for vnto vs belon<g ref="char:EOLhyphen"/>geth ſhame and confuſion of faces, but vnto thee glory &amp; righteouſnes. All which both guilt of ſinne, and de<g ref="char:EOLhyphen"/>ſert of puniſhment, notwithſtanding, (O father of mercies, &amp; God of all co<g ref="char:cmbAbbrStroke">̄</g>fort) wee truſting vnto the promiſes which thou haſt made vs in Ieſus Chriſt, are bold through him, humbly to call for the performance of them. And firſt we humbly deſire thee, to
+<pb n="72" facs="tcp:20709:37"/> forgiue vs all our ſinnes. Thou hast ſaide, that if we confeſſe our ſinnes thou art faithfull to forgiue vs them. We acknowledge the debte, cancell therefore the obligation: let not the multitude of them preuaile againſt vs, but where our ſinne, hath abou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ded, let thy grace more abounde, and as we haue multiplyed our ſinnes, ſo we pray thee to multiply thy mercies: and although wee haue by continu<g ref="char:EOLhyphen"/>aunce in them, ſo ſoked our ſelues, that thereby we are not onely lightly ſtained, but alſo haue gotte<g ref="char:cmbAbbrStroke">̄</g> as it were the ſcarlet &amp; purple die of them: yet let them all (we pray thee,) being waſhed in the blod of thy deare ſonne, be made as whyte, as the ſnowe in Salmon, and as the wolle of the
+<pb n="73" facs="tcp:20709:37"/> ſheep which come from waſhing. And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o conclude, as our ſinnes haue mag<g ref="char:EOLhyphen"/>nified themſelues in an infinit length, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>readth, depth and height: ſo let thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercies (which paſſe all vnderſtan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing) of all ſides, and all aſſayes out <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eache them. Therefore alſo we moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbly deſire thee O Lord, that the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inne being pardoned, thy wrath whi<g ref="char:EOLhyphen"/>che is alreadie declared, may be ap<g ref="char:EOLhyphen"/>peaſed towardes all the Churches of our profeſſion, and eſpecially towards vs, that the manifolde breaches of the Churches and common wealthes may be made vp, that thoſe being receyued into the boſome of the Church, which belong to thy electi<g ref="char:EOLhyphen"/>on: the rest of the Papiſtes and he<g ref="char:EOLhyphen"/>retikes may be vtterly rooted out, &amp;
+<pb n="74" facs="tcp:20709:38"/> that the enemies in religion, being ſlaine, we may to the vttermoſt think all one thing in the honeſte and pea<g ref="char:EOLhyphen"/>ceable gouernment of the common wealth. Vpon which vniting of vs in all trueth and honestie, the curſes of the plague, and barrenneſſe being re<g ref="char:EOLhyphen"/>moued, a way may be made to thy bleſ<g ref="char:EOLunhyphen"/>ſinges, which (as the hills do the val<g ref="char:EOLhyphen"/>leis) may make our land holeſomely fruitfull. And that not onely the wrath which is alreadie kindled may be quenched, but that which hath beene lately threatned, may be cau<g ref="char:EOLhyphen"/>ſed to retyre. For the graunt where<g ref="char:EOLhyphen"/>of vnto vs, we beſeech thee to re<g ref="char:EOLhyphen"/>member, that howe vnworthy ſoe<g ref="char:EOLhyphen"/>uer, yet are wee thy people, and the Sheepe of thy paſture, whome thou
+<pb n="75" facs="tcp:20709:38"/> haſt redemed with thy most pretious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood, watched ouer with a carefull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye, defended with a mightie hand: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpiſe not therfore O Lord, the wor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of thy hands. And ſeing thou haſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ued vs, when we hated thee, viſited vs, when we deſired thee not, then ac<g ref="char:EOLhyphen"/>knowledged vs, when we knewe not thee: now that there be a nu<g ref="char:cmbAbbrStroke">̄</g>ber of vs, which loue thee, deſire thine aboade, &amp; acknowledge thee: hold on thy loue ſtill, depart not from vs, deny vs not, O thou God of trueth, which art the God that chaungest not. And if thou wouldeſt or couldeſt forget vs, calling vpon thee: yet what ſhould become of thy great name, which is called vpon by vs? And therefore for thy glories ſake, and for thy bleſſed names ſake,
+<pb n="76" facs="tcp:20709:39"/> which in our destruction ſhoulde b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rent and runne through, ſpare v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſpare vs good Lord, according to the vſuall dealing, which thou haſt euer kept with thoſe, which in prayer haue had recourſe vnto thee, and accor<g ref="char:EOLhyphen"/>ding to the olde and vnchangeable nature, of a merciful, kind, ſparing, &amp; long ſuffering God. Which mercie we do not, (O Lord) deſire, to the end that we ſhoulde tumble and wallowe our ſelues in our accuſtomed neglect, and contempt of thy holy worde: but together with mercie for our ſinnes, and the rewarde of them, we moste humbly craue vppon the knees of our heartes: that for the time to come, (howe long, or howe ſhort ſoeuer) we with deniall and deteſtation of our
+<pb n="77" facs="tcp:20709:39"/> ſelues, and of our wicked luſtes, may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er vp vnto thee in Ieſus Chriſte, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſelues, our bodies and ſoules to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſeruauntes at thy holy commaun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ement in that reaſonable ſeruice, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich the high reaſon of thy holy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orde doth preſcribe: and to be wea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, or instruments of righteouſnes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd holineſſe, as they haue bene here<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ofore of the contrarie. All which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hinges, as whatſoeuer thou knowest <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be further needefull for vs, or for any of the Churches, we pray thee, as our ſauiour hath taught. &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:20709:40"/>
+               <pb facs="tcp:20709:40"/>
+               <head>A CONFESSION OF ſinnes, with fayth and repentaunce.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">O</seg>
+                  </hi> Mercifull and heauen<g ref="char:EOLhyphen"/>ly Father, we thy ſerua<g ref="char:cmbAbbrStroke">̄</g>ts doe humbly proſtrate our ſelues before thy Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estie, acknowledging here in thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight our hainous offences committed against thy Maiestie, ſeeing and beholding thy heauie wrath against them: we feele our ſelues laden (O Lord our God) with a huge company of horrible ſinnes, whereof euen the very least, (beeing but conceiued in thought,) is ſufficient in iudgeme<g ref="char:cmbAbbrStroke">̄</g>t, to throwe vs downe to the euerlastinge burning Lake. Our owne conſcien<g ref="char:EOLhyphen"/>ces, O Lorde, doe beare witneſſe
+<pb n="80" facs="tcp:20709:41"/> againſt vs, of our manifolde tranſ<g ref="char:EOLhyphen"/>greſſions of thy bleſſed lawe, of our ſecuritie and ſenceleſſe blindeneſſe, running headlong to deſtruction, co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mitting ſinne after ſinne, although not notorious to the worlde, yet hor<g ref="char:EOLhyphen"/>rible before thine eye. The thoughts of our heartes riſe vp in iudgement against vs: the vanitie of our talk be<g ref="char:EOLhyphen"/>fore thy maiestie condemneth vs: the wickedneſſe of our deedes from thy ſight reiecteth vs: all our wicked thoughts, wordes and deeds, with the inwarde corruption of our nature, do altogether as it were a whole lumpe and loade of ſinne, lie heauie vppon vs, &amp; with their intollerable weight doe euen preſſe vs downe to Hell.</p>
+               <p>Wee doe dayly grone vnder the
+<pb n="81" facs="tcp:20709:41"/> burthen of them, inwardly lamenting our owne follie, ſo greedily running into them. In heauen, earth, or hel, we ſee none able to ſustaine the weight of them, but euen thy dearly beloued ſonne Ieſus Christ, who in mercy in<g ref="char:EOLhyphen"/>finite, and compaſſion endleſſe, hath ſustained and ouercome that end<g ref="char:EOLhyphen"/>leſſe puniſhment due vnto them: in him therefore, in him most mercifull Father, and through him, we come to thee, being fully aſſured according to thy promiſe, that thou wilt accept &amp; take that full recompence, which he thy deare ſonne hath made for vs, as a iust ranſome for all the ſinnes of all thoſe, who with a true faith take hold on him. In him therfore we ſee thine anger towards vs appeſed, thy wrath
+<pb n="82" facs="tcp:20709:42"/> ſatisfied, and our debts paide.</p>
+               <p>Increaſe in vs, (good Lord,) we be<g ref="char:EOLhyphen"/>ſeech thee, this liuely and feeling faith, for we feele it oftentimes in vs very weake, and troubled with many doubtes: increaſe it in vs (O Lorde) that we may through thy holy ſpirite be aſſured, that the puniſhment of our ſinnes is fully in thy ſonne diſchar<g ref="char:EOLhyphen"/>ged. Make vs, O Lord our God, to feele this ſame in our ſoules and con<g ref="char:EOLhyphen"/>ſciences, that Ieſus Christe is ours, and al that he hath done: that we are grafted into his body, and made one with him, and therefore fellow heires with him of euerlasting life. Let vs not onely haue theſe wordes in our mouthes (good Lord) but through thy holy ſpirite, let vs feele the comfort of them in our heartes fully ſealed
+<pb n="83" facs="tcp:20709:42"/> and ſetled in vs: that we feeling our ſelues inwardly before thy iudge<g ref="char:EOLhyphen"/>ment ſeate diſcharged, and our con<g ref="char:EOLhyphen"/>ſciences towardes thee appeaſed: may be ſwallowed vp with an vnfaigned loue toward thy heauenly Maiestie, and towardes our brethren for thy ſake. Make ſinne to dye in vs daily more and more, that we may hate, detest, and vtterly abhorre all ſinne and wickedneſſe in all men, but espe<g ref="char:EOLhyphen"/>cially in our ſelues: that we may ſtrongly (through thy holy ſpirite) ſet our ſelues in open warre and defiance againſt all ſin and wickednes: that we pleaſe not our ſelues in our ſinns, but ſtraightly examining ſinne by the iuſt rule of thy holy lawes, we may vtterly from the bottome of our heartes con<g ref="char:EOLhyphen"/>demne
+<pb n="84" facs="tcp:20709:43"/> euen the least ſinne in our ſel<g ref="char:EOLhyphen"/>ues, hauing our whole ioy, comfort, &amp; conſolation, vpon thoſe things which be agreeable to thy bleſſed will, al<g ref="char:EOLhyphen"/>wayes being afraide to doe any thing contrarie to the ſame: that we may euen from the bottome of our hearts, examine and trie our thoughtes, be<g ref="char:EOLhyphen"/>fore thy preſence, that they be vp<g ref="char:EOLhyphen"/>right and vnfained, not hypochriti<g ref="char:EOLhyphen"/>call in outward ſhewe only, and appea<g ref="char:EOLhyphen"/>rance, but that euen all corners of our hearts being opened and diſcloſed be<g ref="char:EOLhyphen"/>fore thee, we may euen as though it were openly before the face of the whole world, bring them in ſhewe, knowing that a double heart is dete<g ref="char:EOLhyphen"/>stable in thy ſight: and that we may walke alwayes as before thine eyes,
+<pb n="85" facs="tcp:20709:43"/> not only before the eyes of man, being more carefull to walke circumspect<g ref="char:EOLhyphen"/>ly, in this respect, that we haue thee to be a viewer of our doings, a thou<g ref="char:EOLhyphen"/>ſande folde more then the eyes of man: that thus we may walke as be<g ref="char:EOLhyphen"/>commeth thy children, not onely in outward ſhewe, but alſo in ſinceritie of heart, abhorring euen the least ſinne in our ſelues, ſtriuing, reſisting, and fighting against ſinne, not deligh<g ref="char:EOLhyphen"/>ting our ſelues in ſinne, nor nouriſhing the ſame in our brest, but earnestly embracing, and ſtudiouſly ſeeking af<g ref="char:EOLhyphen"/>ter thoſe things which be pleaſant in thine eyes: that neither the feare of man, nor loſſe of goods, life, landes, poſſeſſions or friendes, drawe vs away fro<g ref="char:cmbAbbrStroke">̄</g> thee, to do any the lest thing con<g ref="char:EOLhyphen"/>trarie
+<pb n="86" facs="tcp:20709:44"/> to thy wil and pleaſure: neither the fauour or friendſhip of man, nor yet the flattering enticements of this world, nor the vaine promotions of the ſame, doe moue vs any whit from the true and endleſſe ioy, delight and pleaſure which we ought to haue in thoſe things which be agreeable to thy will, and the conſtant perfor<g ref="char:EOLhyphen"/>mance of the ſame: but that alwayes to the end of our life we may continue in thy pathes, growing and increa<g ref="char:EOLhyphen"/>ſing from faith to faith, from ſtrength to ſtrength, till at the length we ſhall come to thy euerlaſting rest. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="87" facs="tcp:20709:44"/>
+               <head>A Prayer for the Queene.</head>
+               <p>
+                  <seg rend="decorInit">O</seg> Gratious Lorde, and most mercifull Fa<g ref="char:EOLhyphen"/>ther, we acknowledge thee the Lorde of Lordes, and the King of Kinges, creating at the beginning, and ruling all thinges euermore in heauen and earth, according to thy wonderfull wiſedome and power: and our ſelues to be thy poore ſeruantes, the worke of thy hands, and the ſheep of thy paſture, ſubiected to thy Ma<g ref="char:EOLhyphen"/>ieſtic, &amp; depending vpon thy fatherly prouidence for all things. Neuerthe<g ref="char:EOLhyphen"/>leſſe, ſeeing thou in thy wiſedome
+<pb n="88" facs="tcp:20709:45"/> annoyntest Kings and Queenes, ap<g ref="char:EOLhyphen"/>pointing them to rule ouer thy people, to ſit as Lieuetenants in thy ſeat, to minister iustice, and most of all, as Fathers and Nurſes to maintaine &amp; cheriſh thy Church: commaunding vs not only to obey and honour them: but moreouer to pray for them, as watching ouer vs for our good. We therefore beſeech thee for thy great mercies ſake, and for Ieſus Chriſtes ſake, to ſhewe thy mercy to all Kinges and Princes, that maintaine thy glo<g ref="char:EOLhyphen"/>rious Gospell: but especially we pray thee to bleſſe our gratious Queene, in all ſpirituall bleſſings in Chriſt Ieſus, and in all temporall bleſſings, accor<g ref="char:EOLhyphen"/>ding to thy good pleaſure, that in the great meaſures of thy effectuall loue,
+<pb n="89" facs="tcp:20709:45"/> ſhe may more and more finde greate increaſe of vertue, and wiſedome, &amp; ſtrength in Chriſt Ieſus, to the faith<g ref="char:EOLhyphen"/>full and happie diſcharge of her due<g ref="char:EOLhyphen"/>tie, that her holineſſe, and ioy, and zeale of thy houſe may be multiplied and euerlasting.</p>
+               <p>And ſeeing it hath pleaſed thee, of thy ſingular mercy, to giue her this ſpeciall honour, firſt to ſuffer for thy glorious trueth, and afterward mira<g ref="char:EOLhyphen"/>culouſly deliuering her out of the handes of her enimies, to ſet a crowne vpon her head, and to make her the inſtrument to aduaunce thy glory &amp; Gospell, for which ſhe ſuffered, and to bring it out of darkneſſe into light, out of perſecution into this great and long peace. As we giue thee moſt
+<pb n="90" facs="tcp:20709:46"/> heartie thankes for this ſingular be<g ref="char:EOLhyphen"/>nefite, ſo we be ſeech thee to make her and vs euermore thankefull for it, and in thy good pleaſure ſtill to pre<g ref="char:EOLhyphen"/>ſerue her for the continuance of theſe bleſſings towards vs, with all increaſe from time to time, to thy glory, the benefite of the Church, and her infi<g ref="char:EOLhyphen"/>nite peace in Chriſt Ieſus, the prince of peace. And further more, we pray thee for her, and the estate, that ſuch as be enimies of the Gospell, and her enimies alſo, for the defence thereof, may not despiſe the peace offered the<g ref="char:cmbAbbrStroke">̄</g> to repentance, but that they may ac<g ref="char:EOLhyphen"/>count thy long ſuffring, &amp; her peace<g ref="char:EOLhyphen"/>able &amp; vnbloudy gouernment, an oc<g ref="char:EOLhyphen"/>caſion of ſaluation to their ſoules, and vnfeined loue to the truth, and their
+<pb n="91" facs="tcp:20709:46"/> mercifull ſouereigne. Otherwiſe of they ſtill remaine diſobedient to the trueth, diſobedient to her highneſſe, and daungerous to the ſtate, then (O God of our Saluation) as thou hast diſcouered them, ſo diſcouer them ſtill, as thou haſt preuented them, ſo preuent them ſtill, and let their eyes waxe wearie with looking, and their hearts faint with wayting for the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ming of that, which yet commeth not, neither let it come (O Lorde) we be<g ref="char:EOLhyphen"/>ſeech thee, but a bleſſed, and a long reigne to her, and peace to Sion for e<g ref="char:EOLhyphen"/>uermore. Alſo (deare father) ſo bleſſe, ſo loue, ſo in thy ſpirite ſanctifie and keep her, that ſhe may in the ſpirit of counſel and fortitude ſo rule that o<g ref="char:EOLhyphen"/>ther ſiſter alſo, namely this her co<g ref="char:cmbAbbrStroke">̄</g>mon
+<pb n="92" facs="tcp:20709:47"/> wealth, that they may flouriſh toge<g ref="char:EOLhyphen"/>ther, and growe vp together as palme trees, in beautie, and in ſtrength, gi<g ref="char:EOLhyphen"/>uing ayde and helpe one to an other, that in the Church the glory of God may appeare, as the Sunne in his brightneſſe, and that the lande may flowe with Milke and Honie, and true peace abound therein, as in the triumphant reigne of Debora.</p>
+               <p>Theſe graces (O Lord) are great, and we miſerable ſinners, vnworthie of the leaſt of them: therefore looke not to vs, but to thy ſelfe, not to our iniquities, but to thy great mercies, accepting the death and paſſion of thy Sonne, as a full ranſome for all our offences: throwing them into the bottome of the Sea, and making his
+<pb n="93" facs="tcp:20709:47"/> croſſe and reſurrection effectuall in vs to all obedience and godlineſſe, as becommeth thy Saintes: that to all other thy good bleſſings towards our gratious Souereigne, this may be ad<g ref="char:EOLhyphen"/>ded, that ſhe gouerneth bleſſedly, ouer a bleſſed people, a people bleſſed of the Lorde, and beloued of the Lorde, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat thy graces may abound as the waters of the Sea, in the Prince and in the people, in the Church, and in the Common wealth, from day to daye, till the day of our tranſlation into thy kingdome, where iustice in<g ref="char:EOLhyphen"/>habiteth, where alſo we ſhall inha<g ref="char:EOLhyphen"/>bite and reigne with thee, according to thy promiſe for euer. Graunt theſe thinges (O mercifull Father) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or thy deare Sonne our Lorde Ieſus
+<pb n="94" facs="tcp:20709:48"/> Christ his ſake, in whoſe name we craue them at thy mercifull hand, praying furthermore for them, as he hath taught vs to pray. Our Father which are in heauen, &amp;c.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:20709:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
